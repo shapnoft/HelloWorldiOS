@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C1ACF44529B5ED95005C3BF1 /* Build configuration list for PBXProject "HelloWorldiOS" */;
+			buildConfigurationList = C1ACF44529B5ED95005C3BF1 /* Build configuration list for PBXProject "ClickBoxer" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -287,6 +287,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 38323S88XG;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HelloWorldiOS/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -314,6 +315,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 38323S88XG;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HelloWorldiOS/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -337,7 +339,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C1ACF44529B5ED95005C3BF1 /* Build configuration list for PBXProject "HelloWorldiOS" */ = {
+		C1ACF44529B5ED95005C3BF1 /* Build configuration list for PBXProject "ClickBoxer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C1ACF45C29B5ED97005C3BF1 /* Debug */,
