@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C19BB37529B7353200A977A9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 		C1ACF44A29B5ED95005C3BF1 /* HelloWorldiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorldiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1ACF44D29B5ED95005C3BF1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C1ACF44F29B5ED95005C3BF1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,7 +103,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C1ACF44529B5ED95005C3BF1 /* Build configuration list for PBXProject "ClickBoxer" */;
+			buildConfigurationList = C1ACF44529B5ED95005C3BF1 /* Build configuration list for PBXProject "HelloWorldiOS" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -151,6 +152,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				C1ACF45429B5ED95005C3BF1 /* Base */,
+				C19BB37529B7353200A977A9 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -287,6 +289,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = HelloWorldiOS;
 				DEVELOPMENT_TEAM = 38323S88XG;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HelloWorldiOS/Info.plist;
@@ -315,6 +318,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = HelloWorldiOS;
 				DEVELOPMENT_TEAM = 38323S88XG;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HelloWorldiOS/Info.plist;
@@ -339,7 +343,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C1ACF44529B5ED95005C3BF1 /* Build configuration list for PBXProject "ClickBoxer" */ = {
+		C1ACF44529B5ED95005C3BF1 /* Build configuration list for PBXProject "HelloWorldiOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C1ACF45C29B5ED97005C3BF1 /* Debug */,
